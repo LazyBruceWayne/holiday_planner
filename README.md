@@ -1,4 +1,4 @@
-# holiday_planner
+# Holiday Planner
 
 
 | Examples             |   |

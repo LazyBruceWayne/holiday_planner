@@ -1,8 +1,9 @@
 # holiday_planner
 
 
-| Italic             |  Block letters |
+| Examples             |   |
 :-------------------------:|:-------------------------:
-![](outputs/output_Biotouch/18-15_02-02-2018/Identification/ITALIC/ITALIC_movementPoints_cmc.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Identification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_cmc.png)
-![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_roc.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_roc.png)
-![](outputs/output_Biotouch/18-15_02-02-2018/Verification/ITALIC/ITALIC_movementPoints_notbalanced_frrVSfpr.png)  |  ![](outputs/output_Biotouch/18-15_02-02-2018/Verification/BLOCK_LETTERS/BLOCK_LETTERS_movementPoints_notbalanced_frrVSfpr.png)
+![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/1.png)  |  ![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/2.png)
+![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/3.png)  |  ![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/4.png)
+![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/5.png)  |  ![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/6.png)
+![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/7.png)  |  ![](https://github.com/LazyBruceWayne/holiday_planner/blob/master/8.png)
